@@ -1,0 +1,343 @@
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2017-12-10 09:58 IST
+Nmap scan report for 172.16.66.1
+Host is up (0.014s latency).
+Not shown: 996 closed ports
+PORT     STATE SERVICE
+2001/tcp open  dc
+4001/tcp open  newoak
+6001/tcp open  X11:1
+9001/tcp open  tor-orport
+
+Nmap scan report for 172.16.66.2
+Host is up (0.016s latency).
+Not shown: 996 closed ports
+PORT     STATE SERVICE
+2001/tcp open  dc
+4001/tcp open  newoak
+6001/tcp open  X11:1
+9001/tcp open  tor-orport
+
+Nmap scan report for 172.16.66.3
+Host is up (0.016s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for 172.16.66.9
+Host is up (0.017s latency).
+Not shown: 998 closed ports
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+2002/tcp open     globe
+
+Nmap scan report for 172.16.66.10
+Host is up (0.016s latency).
+Not shown: 998 closed ports
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+2002/tcp open     globe
+
+Nmap scan report for 172.16.66.11
+Host is up (0.015s latency).
+Not shown: 998 closed ports
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+2002/tcp open     globe
+
+Nmap scan report for 172.16.66.12
+Host is up (0.015s latency).
+Not shown: 998 closed ports
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+2002/tcp open     globe
+
+Nmap scan report for 172.16.66.13
+Host is up (0.012s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for 172.16.66.14
+Host is up (0.016s latency).
+Not shown: 998 closed ports
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+2002/tcp open     globe
+
+Nmap scan report for 172.16.66.15
+Host is up (0.016s latency).
+Not shown: 998 closed ports
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+2002/tcp open     globe
+
+Nmap scan report for 172.16.66.16
+Host is up (0.016s latency).
+Not shown: 998 closed ports
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+2002/tcp open     globe
+
+Nmap scan report for 172.16.66.17
+Host is up (0.015s latency).
+Not shown: 998 closed ports
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+2002/tcp open     globe
+
+Nmap scan report for 172.16.66.18
+Host is up (0.013s latency).
+Not shown: 998 closed ports
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+2002/tcp open     globe
+
+Nmap scan report for 172.16.66.21
+Host is up (0.014s latency).
+Not shown: 995 closed ports
+PORT      STATE    SERVICE
+1040/tcp  filtered netsaint
+2800/tcp  filtered acc-raid
+3128/tcp  filtered squid-http
+18040/tcp filtered unknown
+20005/tcp filtered btx
+
+Nmap scan report for 172.16.66.22
+Host is up (0.031s latency).
+Not shown: 999 closed ports
+PORT     STATE SERVICE
+5900/tcp open  vnc
+
+Nmap scan report for 172.16.66.31
+Host is up (0.047s latency).
+Not shown: 990 filtered ports
+PORT     STATE  SERVICE
+80/tcp   open   http
+135/tcp  open   msrpc
+139/tcp  open   netbios-ssn
+443/tcp  open   https
+445/tcp  open   microsoft-ds
+1032/tcp closed iad3
+1033/tcp closed netinfo
+2869/tcp closed icslap
+3389/tcp open   ms-wbt-server
+5357/tcp open   wsdapi
+
+Nmap scan report for 172.16.66.41
+Host is up (0.083s latency).
+All 1000 scanned ports on 172.16.66.41 are closed
+
+Nmap scan report for 172.16.66.42
+Host is up (0.018s latency).
+Not shown: 999 closed ports
+PORT     STATE SERVICE
+5555/tcp open  freeciv
+
+Nmap scan report for 172.16.66.43
+Host is up (0.015s latency).
+Not shown: 997 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+6667/tcp open  irc
+
+Nmap scan report for 172.16.66.45
+Host is up (0.036s latency).
+Not shown: 999 closed ports
+PORT     STATE SERVICE
+5555/tcp open  freeciv
+
+Nmap scan report for 172.16.66.46
+Host is up (0.017s latency).
+All 1000 scanned ports on 172.16.66.46 are closed
+
+Nmap scan report for 172.16.66.50
+Host is up (0.061s latency).
+Not shown: 999 closed ports
+PORT     STATE    SERVICE
+9011/tcp filtered unknown
+
+Nmap scan report for 172.16.66.56
+Host is up (0.047s latency).
+All 1000 scanned ports on 172.16.66.56 are closed
+
+Nmap scan report for 172.16.66.87
+Host is up (0.000047s latency).
+Not shown: 999 closed ports
+PORT     STATE SERVICE
+5555/tcp open  freeciv
+
+Nmap scan report for 172.16.66.91
+Host is up (0.057s latency).
+Not shown: 998 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+5555/tcp open  freeciv
+
+Nmap scan report for 172.16.66.92
+Host is up (0.055s latency).
+All 1000 scanned ports on 172.16.66.92 are closed
+
+Nmap scan report for 172.16.66.98
+Host is up (0.016s latency).
+Not shown: 990 closed ports
+PORT      STATE SERVICE
+80/tcp    open  http
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+8081/tcp  open  blackice-icecap
+8090/tcp  open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+
+Nmap scan report for 172.16.66.105
+Host is up (0.81s latency).
+Not shown: 996 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+4567/tcp open  tram
+5555/tcp open  freeciv
+6666/tcp open  irc
+
+Nmap scan report for 172.16.66.109
+Host is up (0.022s latency).
+Not shown: 999 closed ports
+PORT     STATE SERVICE
+5900/tcp open  vnc
+
+Nmap scan report for 172.16.66.111
+Host is up (0.048s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for 172.16.66.112
+Host is up (0.019s latency).
+Not shown: 998 closed ports
+PORT     STATE    SERVICE
+3006/tcp filtered deslogind
+3030/tcp filtered arepa-cas
+
+Nmap scan report for 172.16.66.115
+Host is up (0.022s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 172.16.66.118
+Host is up (0.016s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap scan report for 172.16.66.119
+Host is up (0.079s latency).
+All 1000 scanned ports on 172.16.66.119 are closed
+
+Nmap scan report for 172.16.66.121
+Host is up (0.019s latency).
+Not shown: 998 closed ports
+PORT     STATE    SERVICE
+3809/tcp filtered apocd
+8081/tcp open     blackice-icecap
+
+Nmap scan report for 172.16.66.125
+Host is up (0.048s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+25/tcp   open  smtp
+80/tcp   open  http
+111/tcp  open  rpcbind
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+5555/tcp open  freeciv
+
+Nmap scan report for 172.16.66.129
+Host is up (0.015s latency).
+Not shown: 998 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+
+Nmap scan report for 172.16.66.130
+Host is up (0.015s latency).
+Not shown: 996 closed ports
+PORT     STATE SERVICE
+2001/tcp open  dc
+4001/tcp open  newoak
+6001/tcp open  X11:1
+9001/tcp open  tor-orport
+
+Nmap scan report for 172.16.66.131
+Host is up (0.016s latency).
+Not shown: 998 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+
+Nmap scan report for 172.16.66.165
+Host is up (0.016s latency).
+Not shown: 998 closed ports
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+2002/tcp open     globe
+
+Nmap scan report for 172.16.66.166
+Host is up (0.015s latency).
+Not shown: 998 closed ports
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+2002/tcp open     globe
+
+Nmap scan report for 172.16.66.167
+Host is up (0.016s latency).
+Not shown: 998 closed ports
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+2002/tcp open     globe
+
+Nmap scan report for 172.16.66.168
+Host is up (0.016s latency).
+Not shown: 998 closed ports
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+2002/tcp open     globe
+
+Nmap scan report for 172.16.66.169
+Host is up (0.016s latency).
+Not shown: 997 closed ports
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+1192/tcp filtered caids-sensor
+2002/tcp open     globe
+
+Nmap scan report for 172.16.66.170
+Host is up (0.015s latency).
+Not shown: 997 closed ports
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+1078/tcp filtered avocent-proxy
+2002/tcp open     globe
+
+Nmap scan report for 172.16.66.173
+Host is up (0.015s latency).
+Not shown: 998 closed ports
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+2002/tcp open     globe
+
+Nmap scan report for 172.16.66.174
+Host is up (0.015s latency).
+Not shown: 998 closed ports
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+2002/tcp open     globe
+
+Nmap done: 256 IP addresses (47 hosts up) scanned in 255.04 seconds
